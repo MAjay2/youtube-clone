@@ -1,0 +1,152 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.icon{
+    width: 40px;
+    height: 30px;
+    margin-top: 20px;
+}
+
+.nav{
+    display: flex;
+    margin-left: 30px;
+    
+}
+
+.space{
+    margin-left: 10px;
+
+
+}
+
+.spade{
+    margin: 0 auto;
+    width: 500px;
+    height: 43px;
+    border-style: solid;
+    border-width: 1px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    }
+
+.image{
+    width: 35px;
+    margin-left: 10px;
+    margin-top: 0%;
+}
+
+p{
+    margin-left: 5px;
+    margin-top: 0%;
+}
+
+.hover:hover{
+    background-color: lightgrey;
+    padding-right: 7px;
+
+    
+}
+
+.hover{
+    width: 70px;
+    margin-left: 0px;
+    margin-top: 0px;
+    
+    text-align: center;
+    font-size: x-small;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+
+.you-btns{
+    margin-left: 100px;
+    margin-top: 0px;
+    
+}
+
+button{
+    padding: 5px 8px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    
+}
+
+.icon-nav{
+   
+    width: 80px;
+    margin-top: -30px;
+}
+
+.black{
+    background-color: black;
+    color: white;
+}
+
+.image-one{
+    width: 350px;
+    border-radius:20px ;
+
+
+}
+
+.small-one{
+    border-radius:50%;
+    width:50px ;
+
+}
+
+.small-flex{
+    display: flex;
+}
+h5{
+    margin-left: 10px;
+}
+
+h6{
+    margin-left: 60px;
+    margin-top: -20px;
+}
+
+.flex{
+    display: flex;
+}
+
+.mini-box{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.big-flex{
+    display: flex;
+}
+
+.flex-flex{
+    display: flex;
+    margin-left: 75px;
+}
+
+.search-icon{
+    margin-left: 0px;
+}
+
+.search-btn {
+    height: 47px;
+    width: 66px;
+    background-color: ;
+    border-width: 1px;
+    border-style: solid;
+    border-color: ;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: 0px;
+    margin-top:0px ;
+  
+}
+
+.search-box{
+    margin: 10px auto;
+    display: flex;
+    
+}
